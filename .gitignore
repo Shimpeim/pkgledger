@@ -1,0 +1,6 @@
+CLAUDE.md
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+*.tar.gz
